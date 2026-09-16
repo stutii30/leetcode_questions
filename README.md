@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-> **1** problems solved
+> **2** problems solved
 
 ## Topics
 
-- [Array](#array) (1)
+- [Array](#array) (2)
 - [Counting](#counting) (1)
-- [Greedy](#greedy) (1)
+- [Dynamic Programming](#dynamic-programming) (1)
+- [Greedy](#greedy) (2)
 - [Hash Table](#hash-table) (1)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Sorting](#sorting) (1)
@@ -16,6 +17,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 55 | [Jump Game](./55-jump-game/) | Medium | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | cpp |
 
 ## Counting
@@ -24,10 +26,17 @@
 |---|-------|------------|----------|
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | cpp |
 
+## Dynamic Programming
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 55 | [Jump Game](./55-jump-game/) | Medium | cpp |
+
 ## Greedy
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 55 | [Jump Game](./55-jump-game/) | Medium | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | cpp |
 
 ## Hash Table
@@ -52,6 +61,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 55 | [Jump Game](./55-jump-game/) | Medium | Array, Dynamic Programming, Greedy | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | cpp |
 
 ---
