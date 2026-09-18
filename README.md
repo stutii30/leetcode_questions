@@ -1,13 +1,15 @@
 # LeetCode Solutions
 
-> **3** problems solved
+> **4** problems solved
 
 ## Topics
 
 - [Array](#array) (3)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
 - [Binary Search](#binary-search) (1)
+- [Binary Tree](#binary-tree) (1)
 - [Counting](#counting) (1)
+- [Depth-First Search](#depth-first-search) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Dynamic Programming](#dynamic-programming) (1)
 - [Greedy](#greedy) (2)
@@ -17,7 +19,9 @@
 - [Ordered Set](#ordered-set) (1)
 - [Segment Tree](#segment-tree) (1)
 - [Sorting](#sorting) (1)
+- [Stack](#stack) (1)
 - [Treap](#treap) (1)
+- [Tree](#tree) (1)
 - [All Problems](#all-problems)
 
 ## Array
@@ -40,11 +44,23 @@
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | cpp |
 
+## Binary Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | C++ |
+
 ## Counting
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | cpp |
+
+## Depth-First Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | C++ |
 
 ## Divide and Conquer
 
@@ -101,17 +117,30 @@
 |---|-------|------------|----------|
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | cpp |
 
+## Stack
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | C++ |
+
 ## Treap
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | cpp |
 
+## Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | C++ |
+
 ## All Problems
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 55 | [Jump Game](./55-jump-game/) | Medium | Array, Dynamic Programming, Greedy | cpp |
+| 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | Stack, Tree, Depth-First Search, Binary Tree | C++ |
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | cpp |
 
