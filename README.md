@@ -1,15 +1,16 @@
 # LeetCode Solutions
 
-> **6** problems solved
+> **7** problems solved
 
 ## Topics
 
 - [Array](#array) (3)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
 - [Binary Search](#binary-search) (1)
-- [Binary Tree](#binary-tree) (3)
+- [Binary Tree](#binary-tree) (4)
+- [Breadth-First Search](#breadth-first-search) (1)
 - [Counting](#counting) (1)
-- [Depth-First Search](#depth-first-search) (3)
+- [Depth-First Search](#depth-first-search) (4)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Dynamic Programming](#dynamic-programming) (1)
 - [Greedy](#greedy) (2)
@@ -21,7 +22,7 @@
 - [Sorting](#sorting) (1)
 - [Stack](#stack) (2)
 - [Treap](#treap) (1)
-- [Tree](#tree) (3)
+- [Tree](#tree) (4)
 - [All Problems](#all-problems)
 
 ## Array
@@ -51,6 +52,13 @@
 | 110 | [Balanced Binary Tree](./110-balanced-binary-tree/) | Easy | cpp |
 | 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | C++ |
 | 145 | [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal/) | Easy | cpp |
+| 199 | [Binary Tree Right Side View](./199-binary-tree-right-side-view/) | Medium | cpp |
+
+## Breadth-First Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 199 | [Binary Tree Right Side View](./199-binary-tree-right-side-view/) | Medium | cpp |
 
 ## Counting
 
@@ -65,6 +73,7 @@
 | 110 | [Balanced Binary Tree](./110-balanced-binary-tree/) | Easy | cpp |
 | 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | C++ |
 | 145 | [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal/) | Easy | cpp |
+| 199 | [Binary Tree Right Side View](./199-binary-tree-right-side-view/) | Medium | cpp |
 
 ## Divide and Conquer
 
@@ -141,6 +150,7 @@
 | 110 | [Balanced Binary Tree](./110-balanced-binary-tree/) | Easy | cpp |
 | 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | C++ |
 | 145 | [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal/) | Easy | cpp |
+| 199 | [Binary Tree Right Side View](./199-binary-tree-right-side-view/) | Medium | cpp |
 
 ## All Problems
 
@@ -150,6 +160,7 @@
 | 110 | [Balanced Binary Tree](./110-balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | cpp |
 | 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | Stack, Tree, Depth-First Search, Binary Tree | C++ |
 | 145 | [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal/) | Easy | Stack, Tree, Depth-First Search, Binary Tree | cpp |
+| 199 | [Binary Tree Right Side View](./199-binary-tree-right-side-view/) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree | cpp |
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | cpp |
 
