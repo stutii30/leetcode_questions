@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **7** problems solved
+> **8** problems solved
 
 ## Topics
 
@@ -12,17 +12,20 @@
 - [Counting](#counting) (1)
 - [Depth-First Search](#depth-first-search) (4)
 - [Divide and Conquer](#divide-and-conquer) (1)
-- [Dynamic Programming](#dynamic-programming) (1)
+- [Dynamic Programming](#dynamic-programming) (2)
 - [Greedy](#greedy) (2)
 - [Hash Table](#hash-table) (1)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
+- [Manacher](#manacher) (1)
 - [Merge Sort](#merge-sort) (1)
 - [Ordered Set](#ordered-set) (1)
 - [Segment Tree](#segment-tree) (1)
 - [Sorting](#sorting) (1)
 - [Stack](#stack) (2)
+- [String](#string) (1)
 - [Treap](#treap) (1)
 - [Tree](#tree) (4)
+- [Two Pointers](#two-pointers) (1)
 - [All Problems](#all-problems)
 
 ## Array
@@ -85,6 +88,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | cpp |
 | 55 | [Jump Game](./55-jump-game/) | Medium | cpp |
 
 ## Greedy
@@ -105,6 +109,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | cpp |
+
+## Manacher
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | cpp |
 
 ## Merge Sort
 
@@ -137,6 +147,12 @@
 | 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | C++ |
 | 145 | [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal/) | Easy | cpp |
 
+## String
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | cpp |
+
 ## Treap
 
 | # | Title | Difficulty | Language |
@@ -152,10 +168,17 @@
 | 145 | [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal/) | Easy | cpp |
 | 199 | [Binary Tree Right Side View](./199-binary-tree-right-side-view/) | Medium | cpp |
 
+## Two Pointers
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | cpp |
+
 ## All Problems
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | cpp |
 | 55 | [Jump Game](./55-jump-game/) | Medium | Array, Dynamic Programming, Greedy | cpp |
 | 110 | [Balanced Binary Tree](./110-balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | cpp |
 | 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | Stack, Tree, Depth-First Search, Binary Tree | C++ |
