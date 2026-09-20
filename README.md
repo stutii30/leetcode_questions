@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **10** problems solved
+> **11** problems solved
 
 ## Topics
 
@@ -23,7 +23,8 @@
 - [Segment Tree](#segment-tree) (1)
 - [Sorting](#sorting) (1)
 - [Stack](#stack) (2)
-- [String](#string) (3)
+- [String](#string) (4)
+- [String Matching](#string-matching) (1)
 - [Treap](#treap) (1)
 - [Tree](#tree) (4)
 - [Two Pointers](#two-pointers) (1)
@@ -164,7 +165,14 @@
 |---|-------|------------|----------|
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | cpp |
 | 44 | [Wildcard Matching](./44-regular-expression-matching/) | Hard | cpp |
+| 44 | [Wildcard Matching](./44-substring-matching-pattern/) | Hard | cpp |
 | 44 | [Wildcard Matching](./44-wildcard-matching/) | Hard | cpp |
+
+## String Matching
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 44 | [Wildcard Matching](./44-substring-matching-pattern/) | Hard | cpp |
 
 ## Treap
 
@@ -193,6 +201,7 @@
 |---|-------|------------|--------|----------|
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | cpp |
 | 44 | [Wildcard Matching](./44-regular-expression-matching/) | Hard | String, Dynamic Programming, Recursion | cpp |
+| 44 | [Wildcard Matching](./44-substring-matching-pattern/) | Hard | String, String Matching | cpp |
 | 44 | [Wildcard Matching](./44-wildcard-matching/) | Hard | String, Dynamic Programming, Greedy, Recursion | cpp |
 | 55 | [Jump Game](./55-jump-game/) | Medium | Array, Dynamic Programming, Greedy | cpp |
 | 110 | [Balanced Binary Tree](./110-balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | cpp |
