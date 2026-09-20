@@ -1,0 +1,11 @@
+Example 1:
+Input: s = "leetcode", p = "ee*e"
+Output: true
+
+Example 2:
+Input: s = "car", p = "c*v"
+Output: false
+
+Example 3:
+Input: s = "luck", p = "u*"
+Output: true
