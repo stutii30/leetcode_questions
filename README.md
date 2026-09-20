@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **9** problems solved
+> **10** problems solved
 
 ## Topics
 
@@ -12,18 +12,18 @@
 - [Counting](#counting) (1)
 - [Depth-First Search](#depth-first-search) (4)
 - [Divide and Conquer](#divide-and-conquer) (1)
-- [Dynamic Programming](#dynamic-programming) (3)
+- [Dynamic Programming](#dynamic-programming) (4)
 - [Greedy](#greedy) (3)
 - [Hash Table](#hash-table) (1)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Manacher](#manacher) (1)
 - [Merge Sort](#merge-sort) (1)
 - [Ordered Set](#ordered-set) (1)
-- [Recursion](#recursion) (1)
+- [Recursion](#recursion) (2)
 - [Segment Tree](#segment-tree) (1)
 - [Sorting](#sorting) (1)
 - [Stack](#stack) (2)
-- [String](#string) (2)
+- [String](#string) (3)
 - [Treap](#treap) (1)
 - [Tree](#tree) (4)
 - [Two Pointers](#two-pointers) (1)
@@ -90,6 +90,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | cpp |
+| 44 | [Wildcard Matching](./44-regular-expression-matching/) | Hard | cpp |
 | 44 | [Wildcard Matching](./44-wildcard-matching/) | Hard | cpp |
 | 55 | [Jump Game](./55-jump-game/) | Medium | cpp |
 
@@ -135,6 +136,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 44 | [Wildcard Matching](./44-regular-expression-matching/) | Hard | cpp |
 | 44 | [Wildcard Matching](./44-wildcard-matching/) | Hard | cpp |
 
 ## Segment Tree
@@ -161,6 +163,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | cpp |
+| 44 | [Wildcard Matching](./44-regular-expression-matching/) | Hard | cpp |
 | 44 | [Wildcard Matching](./44-wildcard-matching/) | Hard | cpp |
 
 ## Treap
@@ -189,6 +192,7 @@
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | cpp |
+| 44 | [Wildcard Matching](./44-regular-expression-matching/) | Hard | String, Dynamic Programming, Recursion | cpp |
 | 44 | [Wildcard Matching](./44-wildcard-matching/) | Hard | String, Dynamic Programming, Greedy, Recursion | cpp |
 | 55 | [Jump Game](./55-jump-game/) | Medium | Array, Dynamic Programming, Greedy | cpp |
 | 110 | [Balanced Binary Tree](./110-balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | cpp |
