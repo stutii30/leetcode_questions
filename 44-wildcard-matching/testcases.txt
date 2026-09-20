@@ -1,0 +1,11 @@
+Example 1:
+Input: s = "aa", p = "a"
+Output: false
+
+Example 2:
+Input: s = "aa", p = "*"
+Output: true
+
+Example 3:
+Input: s = "cb", p = "?a"
+Output: false
