@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **8** problems solved
+> **9** problems solved
 
 ## Topics
 
@@ -12,17 +12,18 @@
 - [Counting](#counting) (1)
 - [Depth-First Search](#depth-first-search) (4)
 - [Divide and Conquer](#divide-and-conquer) (1)
-- [Dynamic Programming](#dynamic-programming) (2)
-- [Greedy](#greedy) (2)
+- [Dynamic Programming](#dynamic-programming) (3)
+- [Greedy](#greedy) (3)
 - [Hash Table](#hash-table) (1)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Manacher](#manacher) (1)
 - [Merge Sort](#merge-sort) (1)
 - [Ordered Set](#ordered-set) (1)
+- [Recursion](#recursion) (1)
 - [Segment Tree](#segment-tree) (1)
 - [Sorting](#sorting) (1)
 - [Stack](#stack) (2)
-- [String](#string) (1)
+- [String](#string) (2)
 - [Treap](#treap) (1)
 - [Tree](#tree) (4)
 - [Two Pointers](#two-pointers) (1)
@@ -89,12 +90,14 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | cpp |
+| 44 | [Wildcard Matching](./44-wildcard-matching/) | Hard | cpp |
 | 55 | [Jump Game](./55-jump-game/) | Medium | cpp |
 
 ## Greedy
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 44 | [Wildcard Matching](./44-wildcard-matching/) | Hard | cpp |
 | 55 | [Jump Game](./55-jump-game/) | Medium | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | cpp |
 
@@ -128,6 +131,12 @@
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | cpp |
 
+## Recursion
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 44 | [Wildcard Matching](./44-wildcard-matching/) | Hard | cpp |
+
 ## Segment Tree
 
 | # | Title | Difficulty | Language |
@@ -152,6 +161,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | cpp |
+| 44 | [Wildcard Matching](./44-wildcard-matching/) | Hard | cpp |
 
 ## Treap
 
@@ -179,6 +189,7 @@
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | cpp |
+| 44 | [Wildcard Matching](./44-wildcard-matching/) | Hard | String, Dynamic Programming, Greedy, Recursion | cpp |
 | 55 | [Jump Game](./55-jump-game/) | Medium | Array, Dynamic Programming, Greedy | cpp |
 | 110 | [Balanced Binary Tree](./110-balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | cpp |
 | 144 | [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal/) | Easy | Stack, Tree, Depth-First Search, Binary Tree | C++ |
